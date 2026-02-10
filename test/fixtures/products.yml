@@ -6,6 +6,11 @@ one:
   price: 9.99
 
 two:
-  title: MyString
+  title: MyString2
   description: MyText
   price: 9.99
+
+pragprog:
+  title: The Pragmatic Programmer
+  description: Your Journey to Mastery, 20th Anniversary Edition
+  price: 24.99
