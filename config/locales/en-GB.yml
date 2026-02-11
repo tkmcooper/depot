@@ -1,0 +1,15 @@
+en-GB:
+  number:
+    currency:
+      format:
+        unit: "£"
+        format: "%u%n"
+        delimiter: ","
+        separator: "."
+        precision: 2
+
+  activerecord:
+    errors:
+      messages:
+        taken: "has already been taken"
+        greater_than_or_equal_to: "must be greater than or equal to %{count}"
